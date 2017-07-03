@@ -1,10 +1,9 @@
 ---
 layout: home
 ---
-# About Theme
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+# About me
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Welcome to my online home. Here I post my <a href="{{site.url}}/apps">projects, </a><a href="{{site.url}}/"> blogs </a>and everything else. I'm first year undergrad student Living in New Delhi. I'm an open-source and Linux enthusiast. I love to learn something new. I enjoy music, video games, food and Peace. Feel free to give me a shout at <a href="mailto:mail@shubhamjain.in"> mail[at]shubhamjain[dot]in</a>.
+Attached is my  <a href="{{ site.url }}/download/Resume.pdf"> résumé </a><a class="social-btn" href="{{ site.url }}/downld/Resume.pdf" target="_blank"><i class="fa fa-fw fa-download"></i></a> in pdf format.
+:)
